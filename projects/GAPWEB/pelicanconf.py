@@ -22,7 +22,7 @@ LINKS = (
     ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
     ('You can modify those links in your config file', '#'),
 )
-THEME = 'themes/blue-penguin'
+THEME = 'themes/blue-penguin-dark'
 # Social widget
 SOCIAL = (
     ('You can add links in your config file', '#'),

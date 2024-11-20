@@ -9,7 +9,7 @@ We would love to hear from you! Please fill out the form below or reach out via 
 
 ### Email
 
-You can reach us at: [info@example.com](tonto:info@example.com)
+You can reach us at: [info@example.com](info:info@example.com)
 
 ### Contact Form
 
