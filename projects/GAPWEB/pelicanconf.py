@@ -1,8 +1,8 @@
 AUTHOR = 'Joseph, Miguel, Germán'
-SITENAME = 'Our Webpage'
-SITEURL = ""
+SITENAME = 'GAPWEB'
+SITEURL = ''
 
-PATH = "content"
+PATH = 'content'
 
 TIMEZONE = 'Atlantic/Canary'
 
@@ -17,16 +17,16 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ('Pelican', 'https://getpelican.com/'),
+    ('Python.org', 'https://www.python.org/'),
+    ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+    ('You can modify those links in your config file', '#'),
 )
-
+THEME = 'themes/blue-penguin'
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ('You can add links in your config file', '#'),
+    ('Another social link', '#'),
 )
 
 DEFAULT_PAGINATION = False
